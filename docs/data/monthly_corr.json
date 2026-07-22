@@ -1,0 +1,98 @@
+[
+  {
+    "YM": "2025-08",
+    "corr": 0.9052473098034338,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.905*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2025-09",
+    "corr": 0.7667951433158683,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.767*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2025-10",
+    "corr": 0.8905522301849342,
+    "n_weeks": 5,
+    "low_n": 0,
+    "corr_label": "0.891",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2025-11",
+    "corr": 0.8342679752362127,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.834*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2025-12",
+    "corr": 0.1268561806262665,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.127*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-01",
+    "corr": 0.5335022163871902,
+    "n_weeks": 5,
+    "low_n": 0,
+    "corr_label": "0.534",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-02",
+    "corr": 0.17661568935497,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.177*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-03",
+    "corr": -0.0943216610884483,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "-0.094*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-04",
+    "corr": 0.132162486680418,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.132*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-05",
+    "corr": 0.948034403503396,
+    "n_weeks": 5,
+    "low_n": 0,
+    "corr_label": "0.948",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-06",
+    "corr": 0.8803778478487393,
+    "n_weeks": 4,
+    "low_n": 1,
+    "corr_label": "0.880*",
+    "method": "weekly_return_monthly_pearson"
+  },
+  {
+    "YM": "2026-07",
+    "corr": 0.7350457135789689,
+    "n_weeks": 3,
+    "low_n": 1,
+    "corr_label": "0.735*",
+    "method": "weekly_return_monthly_pearson"
+  }
+]

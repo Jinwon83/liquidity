@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>유동성 헤게모니 · 서버리스 대시보드</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>글로벌 달러 유동성 헤게모니</h1>
+      <p>GitHub Pages + Actions 서버리스 · 데이터는 리포 <code>docs/data/*.json</code></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="kpis" id="kpis"></div>
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-tab="overview">요약</button>
+      <button class="tab" data-tab="p1">Panel 1 · 롤링 상관</button>
+      <button class="tab" data-tab="p2">Panel 2 · 유동성</button>
+      <button class="tab" data-tab="p3">Panel 3 · 코리아 알파</button>
+      <button class="tab" data-tab="method">방법론·RRP</button>
+      <button class="tab" data-tab="ll">Lead-Lag</button>
+    </div>
+
+    <section class="panel active" id="overview">
+      <div id="verdict-rrp" class="verdict"></div>
+      <div id="verdict-alpha" class="verdict info"></div>
+      <div class="card"><div id="tbl-monthly"></div></div>
+      <div class="card"><div id="tbl-regime"></div></div>
+    </section>
+
+    <section class="panel" id="p1">
+      <div class="card"><div id="chart-p1" class="chart"></div></div>
+    </section>
+    <section class="panel" id="p2">
+      <div class="card"><div id="chart-p2" class="chart"></div></div>
+    </section>
+    <section class="panel" id="p3">
+      <div class="card"><div id="chart-p3" class="chart"></div></div>
+      <div class="card"><div id="tbl-alpha-m"></div></div>
+    </section>
+    <section class="panel" id="method">
+      <div class="card"><div id="tbl-method"></div></div>
+      <div class="card"><div id="tbl-regime2"></div></div>
+    </section>
+    <section class="panel" id="ll">
+      <div class="card"><div id="chart-ll" class="chart" style="height:360px"></div></div>
+      <div class="card"><div id="tbl-ll"></div></div>
+    </section>
+
+    <footer id="footer">loading…</footer>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

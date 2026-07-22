@@ -1,0 +1,26 @@
+[
+  {
+    "relationship": "fed_net_liquidity vs sofr_iorb_spread (level) [전체]",
+    "corr": -0.6063442527495242,
+    "abs_corr": 0.6063442527495242,
+    "n": 251
+  },
+  {
+    "relationship": "fed_net_liquidity vs sofr_iorb_spread_vol20 [전체]",
+    "corr": -0.5349866665327401,
+    "abs_corr": 0.5349866665327401,
+    "n": 245
+  },
+  {
+    "relationship": "RRPONTSYD vs sofr_iorb_spread_vol20 [전체]",
+    "corr": -0.0767259596239146,
+    "abs_corr": 0.0767259596239146,
+    "n": 245
+  },
+  {
+    "relationship": "RRPONTSYD vs sofr_iorb_spread (level) [전체]",
+    "corr": 0.0170481258163034,
+    "abs_corr": 0.0170481258163034,
+    "n": 254
+  }
+]

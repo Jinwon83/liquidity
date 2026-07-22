@@ -1,0 +1,3 @@
+best_method=weekly_pricelevel_monthly
+MAE=0.284435
+RMSE=0.431760

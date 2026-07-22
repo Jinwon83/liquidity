@@ -1,0 +1,38 @@
+[
+  {
+    "relationship": "KOSPI_ret vs EEM_ret (전체)",
+    "corr": 0.2849874221841085,
+    "abs_corr": 0.2849874221841085,
+    "n": 211
+  },
+  {
+    "relationship": "foreign_netbuy vs EEM_ret",
+    "corr": 0.2261840723155554,
+    "abs_corr": 0.2261840723155554,
+    "n": 219
+  },
+  {
+    "relationship": "korea_alpha vs DXY_pct_change",
+    "corr": 0.1610251439958551,
+    "abs_corr": 0.1610251439958551,
+    "n": 211
+  },
+  {
+    "relationship": "foreign_netbuy vs DXY_pct_change",
+    "corr": -0.1456387035797448,
+    "abs_corr": 0.1456387035797448,
+    "n": 220
+  },
+  {
+    "relationship": "KOSPI_ret vs DXY_pct_change (전체)",
+    "corr": -0.0574463992265555,
+    "abs_corr": 0.0574463992265555,
+    "n": 212
+  },
+  {
+    "relationship": "korea_alpha vs fed_net_liquidity",
+    "corr": -0.0228614755857189,
+    "abs_corr": 0.0228614755857189,
+    "n": 209
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "adopted_method": "weekly_return_monthly_pearson",
+  "adopted_code": "A",
+  "mae_A": 0.4312094282090157,
+  "mae_B": 0.5833316313005837,
+  "weekly_roll_window": 8,
+  "low_n_threshold": 4,
+  "rrp_depleted_threshold_bn": 10.0,
+  "rrp_regime_verdict": "강도는 유지됐으나 부호가 반전 — 고갈 전후 '관계의 성격'이 바뀜 (구간1 corr=-0.407 → 구간2 corr=+0.415; |corr| 0.407≈0.415). 단순 '고갈→설명력 상실'이라기보다 레짐 전환. | 구간2 월말·분기말 제외 후 corr=+0.345 (제외 전 +0.415 → 제외 후 +0.345; n=161, 제외일=27) | 최종: 진짜 레짐 전환 (월말·분기말 제외 후에도 양의 상관 유지, |corr|=0.345≥0.2)",
+  "korea_alpha_verdict": "가장 설명력 큰 조합: KOSPI_ret vs EEM_ret (전체) (corr=+0.285, |corr|=0.285, n=211) | 월별 평균|corr| 기준 최강: KOSPI↔EEM (커플링) KOSPI↔EEM (커플링)=0.345, KOSPI↔DXY (달러 직결)=0.215, alpha↔Fed순유동성 (한국 고유분)=0.135",
+  "note": "Panel2: Fed순유동성(주간)+SOFR-IORB+rrp_depleted 음영. Panel3: KOSPI/EEM 리베이스 + 일별 foreign_netbuy. 코리아 알파 = KOSPI_ret - EEM_ret."
+}

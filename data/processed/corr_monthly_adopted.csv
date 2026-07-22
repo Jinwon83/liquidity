@@ -1,0 +1,13 @@
+﻿YM,corr,n_weeks,low_n,corr_label,method
+2025-08,0.9052473098034338,4,True,0.905*,weekly_return_monthly_pearson
+2025-09,0.7667951433158683,4,True,0.767*,weekly_return_monthly_pearson
+2025-10,0.8905522301849342,5,False,0.891,weekly_return_monthly_pearson
+2025-11,0.8342679752362127,4,True,0.834*,weekly_return_monthly_pearson
+2025-12,0.1268561806262665,4,True,0.127*,weekly_return_monthly_pearson
+2026-01,0.5335022163871902,5,False,0.534,weekly_return_monthly_pearson
+2026-02,0.17661568935497002,4,True,0.177*,weekly_return_monthly_pearson
+2026-03,-0.09432166108844835,4,True,-0.094*,weekly_return_monthly_pearson
+2026-04,0.13216248668041805,4,True,0.132*,weekly_return_monthly_pearson
+2026-05,0.9480344035033959,5,False,0.948,weekly_return_monthly_pearson
+2026-06,0.8803778478487393,4,True,0.880*,weekly_return_monthly_pearson
+2026-07,0.7350457135789689,3,True,0.735*,weekly_return_monthly_pearson

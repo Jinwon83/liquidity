@@ -1,0 +1,110 @@
+[
+  {
+    "YM": "2025-08",
+    "KOSPI_ret_vs_EEM_ret": 0.3913261623239432,
+    "n_em": 18,
+    "KOSPI_ret_vs_DXY_chg": 0.1610519776056888,
+    "n_dxy": 18,
+    "alpha_vs_fed_net_liquidity": -0.2995360942384414,
+    "n_alpha": 16
+  },
+  {
+    "YM": "2025-09",
+    "KOSPI_ret_vs_EEM_ret": 0.3264082939882375,
+    "n_em": 20,
+    "KOSPI_ret_vs_DXY_chg": -0.0315881790539605,
+    "n_dxy": 20,
+    "alpha_vs_fed_net_liquidity": 0.1912439033591184,
+    "n_alpha": 20
+  },
+  {
+    "YM": "2025-10",
+    "KOSPI_ret_vs_EEM_ret": 0.2413165336103764,
+    "n_em": 17,
+    "KOSPI_ret_vs_DXY_chg": -0.2371199054745365,
+    "n_dxy": 17,
+    "alpha_vs_fed_net_liquidity": -0.1223910415515478,
+    "n_alpha": 17
+  },
+  {
+    "YM": "2025-11",
+    "KOSPI_ret_vs_EEM_ret": 0.1863595557028921,
+    "n_em": 18,
+    "KOSPI_ret_vs_DXY_chg": -0.1239432316038123,
+    "n_dxy": 18,
+    "alpha_vs_fed_net_liquidity": 0.0305512059296897,
+    "n_alpha": 18
+  },
+  {
+    "YM": "2025-12",
+    "KOSPI_ret_vs_EEM_ret": -0.0286832530805896,
+    "n_em": 20,
+    "KOSPI_ret_vs_DXY_chg": 0.0598774877936643,
+    "n_dxy": 20,
+    "alpha_vs_fed_net_liquidity": -0.1235842104544175,
+    "n_alpha": 20
+  },
+  {
+    "YM": "2026-01",
+    "KOSPI_ret_vs_EEM_ret": 0.4435923024552494,
+    "n_em": 18,
+    "KOSPI_ret_vs_DXY_chg": -0.1510969621240107,
+    "n_dxy": 18,
+    "alpha_vs_fed_net_liquidity": 0.0208496109099302,
+    "n_alpha": 18
+  },
+  {
+    "YM": "2026-02",
+    "KOSPI_ret_vs_EEM_ret": -0.0100760970943814,
+    "n_em": 16,
+    "KOSPI_ret_vs_DXY_chg": -0.5275112685344474,
+    "n_dxy": 16,
+    "alpha_vs_fed_net_liquidity": 0.2016201006906968,
+    "n_alpha": 16
+  },
+  {
+    "YM": "2026-03",
+    "KOSPI_ret_vs_EEM_ret": -0.3945688729081765,
+    "n_em": 20,
+    "KOSPI_ret_vs_DXY_chg": 0.3691570583867771,
+    "n_dxy": 20,
+    "alpha_vs_fed_net_liquidity": 0.2105133799562895,
+    "n_alpha": 20
+  },
+  {
+    "YM": "2026-04",
+    "KOSPI_ret_vs_EEM_ret": 0.3643317544582428,
+    "n_em": 20,
+    "KOSPI_ret_vs_DXY_chg": -0.1896772368104039,
+    "n_dxy": 20,
+    "alpha_vs_fed_net_liquidity": 0.0993194085386987,
+    "n_alpha": 20
+  },
+  {
+    "YM": "2026-05",
+    "KOSPI_ret_vs_EEM_ret": 0.5453032164081185,
+    "n_em": 15,
+    "KOSPI_ret_vs_DXY_chg": -0.2081648716748954,
+    "n_dxy": 15,
+    "alpha_vs_fed_net_liquidity": 0.0213774485625335,
+    "n_alpha": 15
+  },
+  {
+    "YM": "2026-06",
+    "KOSPI_ret_vs_EEM_ret": 0.5528688381013409,
+    "n_em": 18,
+    "KOSPI_ret_vs_DXY_chg": -0.252249865982734,
+    "n_dxy": 18,
+    "alpha_vs_fed_net_liquidity": 0.0337921330635783,
+    "n_alpha": 18
+  },
+  {
+    "YM": "2026-07",
+    "KOSPI_ret_vs_EEM_ret": 0.6561424026964737,
+    "n_em": 11,
+    "KOSPI_ret_vs_DXY_chg": -0.2661862934118216,
+    "n_dxy": 12,
+    "alpha_vs_fed_net_liquidity": 0.2668947713096035,
+    "n_alpha": 11
+  }
+]

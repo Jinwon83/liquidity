@@ -1,0 +1,21 @@
+# 환경/비밀
+.env
+*.pem
+oci_config
+
+# 로컬 환경
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# 로컬 산출(원하면 추적) — Pages용 docs/data 는 커밋
+output/
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
