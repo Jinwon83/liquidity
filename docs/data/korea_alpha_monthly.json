@@ -102,8 +102,8 @@
     "YM": "2026-07",
     "KOSPI_ret_vs_EEM_ret": 0.6561424026964737,
     "n_em": 11,
-    "KOSPI_ret_vs_DXY_chg": -0.2916928573724966,
-    "n_dxy": 12,
+    "KOSPI_ret_vs_DXY_chg": -0.2785086336733506,
+    "n_dxy": 11,
     "alpha_vs_fed_net_liquidity": 0.2668947713096035,
     "n_alpha": 11
   }
