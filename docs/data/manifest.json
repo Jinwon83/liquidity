@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-07-22T06:09:07.794091+00:00",
+  "generated_at": "2026-07-22T06:32:38.325781+00:00",
   "files": [
     "korea_alpha_monthly.json",
     "korea_alpha_summary.json",
     "lead_lag.json",
+    "manifest.json",
     "meta.json",
     "method_ab.json",
     "monthly_corr.json",
