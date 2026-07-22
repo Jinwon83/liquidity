@@ -1,47 +1,47 @@
 [
   {
     "YM": "2025-08",
-    "KOSPI_ret_vs_EEM_ret": 0.3913261623239432,
+    "KOSPI_ret_vs_EEM_ret": 0.3913280622796262,
     "n_em": 18,
     "KOSPI_ret_vs_DXY_chg": 0.1610519776056888,
     "n_dxy": 18,
-    "alpha_vs_fed_net_liquidity": -0.2995360942384414,
+    "alpha_vs_fed_net_liquidity": -0.2995365862873574,
     "n_alpha": 16
   },
   {
     "YM": "2025-09",
-    "KOSPI_ret_vs_EEM_ret": 0.3264082939882375,
+    "KOSPI_ret_vs_EEM_ret": 0.3264064548927609,
     "n_em": 20,
     "KOSPI_ret_vs_DXY_chg": -0.0315881790539605,
     "n_dxy": 20,
-    "alpha_vs_fed_net_liquidity": 0.1912439033591184,
+    "alpha_vs_fed_net_liquidity": 0.1912436096257288,
     "n_alpha": 20
   },
   {
     "YM": "2025-10",
-    "KOSPI_ret_vs_EEM_ret": 0.2413165336103764,
+    "KOSPI_ret_vs_EEM_ret": 0.2413157654270009,
     "n_em": 17,
     "KOSPI_ret_vs_DXY_chg": -0.2371199054745365,
     "n_dxy": 17,
-    "alpha_vs_fed_net_liquidity": -0.1223910415515478,
+    "alpha_vs_fed_net_liquidity": -0.1223904968385074,
     "n_alpha": 17
   },
   {
     "YM": "2025-11",
-    "KOSPI_ret_vs_EEM_ret": 0.1863595557028921,
+    "KOSPI_ret_vs_EEM_ret": 0.186360329026099,
     "n_em": 18,
     "KOSPI_ret_vs_DXY_chg": -0.1239432316038123,
     "n_dxy": 18,
-    "alpha_vs_fed_net_liquidity": 0.0305512059296897,
+    "alpha_vs_fed_net_liquidity": 0.030551077296849,
     "n_alpha": 18
   },
   {
     "YM": "2025-12",
-    "KOSPI_ret_vs_EEM_ret": -0.0286832530805896,
+    "KOSPI_ret_vs_EEM_ret": -0.0286831309669239,
     "n_em": 20,
     "KOSPI_ret_vs_DXY_chg": 0.0598774877936643,
     "n_dxy": 20,
-    "alpha_vs_fed_net_liquidity": -0.1235842104544175,
+    "alpha_vs_fed_net_liquidity": -0.1235840890103695,
     "n_alpha": 20
   },
   {
@@ -102,7 +102,7 @@
     "YM": "2026-07",
     "KOSPI_ret_vs_EEM_ret": 0.6561424026964737,
     "n_em": 11,
-    "KOSPI_ret_vs_DXY_chg": -0.2661862934118216,
+    "KOSPI_ret_vs_DXY_chg": -0.2809290772971552,
     "n_dxy": 12,
     "alpha_vs_fed_net_liquidity": 0.2668947713096035,
     "n_alpha": 11

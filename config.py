@@ -7,7 +7,13 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parent
-load_dotenv(ROOT / ".env")
+# Windows에서 .env 가 cp949로 저장된 경우도 허용
+_env = ROOT / ".env"
+if _env.exists():
+    try:
+        load_dotenv(_env, encoding="utf-8")
+    except UnicodeDecodeError:
+        load_dotenv(_env, encoding="cp949")
 
 DATA_DIR = ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"
