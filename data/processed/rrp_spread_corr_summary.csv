@@ -1,5 +1,5 @@
 ﻿relationship,corr,abs_corr,n
-fed_net_liquidity vs sofr_iorb_spread (level) [전체],-0.6020514936994789,0.6020514936994789,251
-fed_net_liquidity vs sofr_iorb_spread_vol20 [전체],-0.5371723167085709,0.5371723167085709,245
-RRPONTSYD vs sofr_iorb_spread_vol20 [전체],-0.07630044348166296,0.07630044348166296,245
-RRPONTSYD vs sofr_iorb_spread (level) [전체],0.014177577568301718,0.014177577568301718,254
+RRPONTSYD vs sofr_iorb_spread (level) [전체],,,0
+RRPONTSYD vs sofr_iorb_spread_vol20 [전체],,,0
+fed_net_liquidity vs sofr_iorb_spread (level) [전체],,,0
+fed_net_liquidity vs sofr_iorb_spread_vol20 [전체],,,0
