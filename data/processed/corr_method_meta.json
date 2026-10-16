@@ -1,8 +1,8 @@
 {
   "adopted_method": "weekly_return_monthly_pearson",
-  "adopted_code": "A",
-  "mae_A": 0.4312094282090157,
-  "mae_B": 0.5833316313005837,
+  "adopted_code": "B",
+  "mae_A": NaN,
+  "mae_B": NaN,
   "weekly_roll_window": 8,
   "low_n_threshold": 4,
   "rrp_depleted_threshold_bn": 10.0,
